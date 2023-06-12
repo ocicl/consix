@@ -1,0 +1,10 @@
+* consix
+
+Lispy Qix-like game in 7 days
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/death/consix.git   |
+| commit  | e6823a9  |
+| systems | consix |
+|---------+-------------------------------------------|
+
